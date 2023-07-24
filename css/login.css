@@ -1,0 +1,53 @@
+
+.left{
+	flex-basis: 30%;
+	border: 1px soild;
+	width: 80%;
+	height: auto;
+	background-color: #A1CCD1;
+	border: solid 1px;
+	text-align: center;
+}
+
+.right{
+	flex-basis: 70%;
+	border: 1px solid;
+	width: 80%;
+	height: auto;
+	background-color: #F4F2DE;
+}
+
+body{
+	padding: 15% 30% 30%;
+}
+
+.main{
+	display: flex;
+}
+
+
+form{
+	padding: 5% 10%;
+}
+
+.box{
+	padding-top: 30px;
+}
+
+.fa-cat{
+	margin-bottom: 20px;
+}
+
+p{
+	margin: 10px auto;
+}
+
+
+.nav-link{
+	color: blue;
+	font-size: 1.3em;
+}
+
+.nav-link:hover{
+	color: #F31559;
+}

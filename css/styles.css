@@ -1,0 +1,202 @@
+
+
+/*title section*/
+
+.navbar-brand{
+	margin-left: 20px;
+	font-size: 2rem;
+	font-family: 'Ubuntu', sans-serif;
+
+	
+}
+
+.navbar-nav{
+	margin-right: 20px;
+}
+
+.navbar{
+	background-color: #A1CCD1;
+	margin-bottom: 20px;
+}
+
+.nav-item{
+	margin-left: 20px;
+}
+
+.nav-link{
+	font-size: 1.2rem;
+	font-family: 'Nunito', sans-serif;
+}
+
+
+#title{
+	background-color: #F4F2DE;
+	color: #000;
+}
+
+button{
+	margin:0 15px 20px;
+
+}
+
+h1{
+	font-family: 'Montserrat-Black', sans-serif;
+	line-height: 1.5;
+	font-size: 4.5rem;
+	margin-bottom: 15px;
+	margin-top: 20px;
+}
+
+.navbar-toggler{
+	margin-right: 20px;
+}
+
+.container-fluid{
+	padding: 3% 15%;
+	text-align: center;
+}
+
+body{
+	font-family: "Montserrat";
+	margin-bottom: 0;
+}
+
+
+.title-img{
+	width: 50%;
+}
+
+
+  /*Feature section*/
+
+#features{
+	background-color: #F5F5F5;
+	padding: 7% 10%;
+	margin: 0;
+}
+
+.feature-box{
+	text-align: center;
+	padding: 5%;
+}
+
+h3{
+	font-family: 'Montserrat-Bold';
+	font-size: 1.8rem;
+	font-weight: bolder;
+	margin-bottom: 10px;
+}
+
+p{
+	color: #2D4356;
+}
+
+.icon{
+	color: #E9B384;
+	margin: 20px auto 30px;
+}
+
+.icon:hover{
+	color: #F31559;
+}
+
+/*testemonial section*/
+
+#testimonials{
+	text-align: center;
+	background-color: #F4E0B9;
+	margin-bottom: 50px;
+}
+
+h2{
+	font-family: 'Montserrat-Bold';
+	font-size: 3rem;
+	margin-bottom: 30px;
+	line-height: 1.5;
+	word-spacing: 1.5;
+}
+
+.testimonial-img{
+	width: 20%;
+	border-radius: 100%;
+	margin: 20px 20px 0;
+	padding-bottom: 20px;
+}em{
+	font-size: 1.2rem;
+	margin-top: 40PX;
+}
+
+
+.carousel-item{
+	padding: 7% 15%;
+}
+
+#pricing{
+	text-align: center;
+}
+
+
+.priciing{
+	padding: 100px;
+}
+
+.head{
+	margin-top: 20px;
+}
+
+.price{
+	margin-bottom: 30px;
+}
+
+
+#cta, #footer{
+	background-color: #F4E0B9;
+	text-align: center;
+}
+
+.cr{
+	margin-bottom: 0;
+	font-weight: bold;
+	letter-spacing: 2px;
+	padding-bottom: 10px;
+	font-size: .7rem;
+}
+
+#cta{
+	padding: 5% 15% 5px;
+}
+
+.cta-head{
+	margin-bottom: 20px;
+}
+
+
+
+#contact{
+	text-align: center;
+}
+
+.contact-row{
+	padding: 30px 20%;
+}
+
+.contact-icon{
+	color: #E9B384;
+}
+
+
+.contact-icon:hover{
+	color: #F31559;
+}
+
+
+h5{
+	margin: 30px auto 10px;
+}
+
+.title-img2{
+	width: 32%;
+}
+
+
+
